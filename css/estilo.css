@@ -1,15 +1,10 @@
-h1{
-    color: black;
-
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1e2ee;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: left;
+    align-items: up;
+    height: 100vh;
 }
-
-
-body{
-    background-color: rgb(255, 241, 252);
-    color: black;
-}
-
-main {
-    text-align: center;
-}
-
